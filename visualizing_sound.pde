@@ -1,5 +1,5 @@
-//what if you vary the ssize of the square
-//right now we have the brightness of the square varying with the decibel levels.
+// Download Processing's Sound Library
+
 import processing.sound.*;
 AudioIn in;
 Amplitude amp;
