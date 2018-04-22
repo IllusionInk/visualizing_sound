@@ -26,7 +26,7 @@ The project began with the basic aim of emulating a sound visualizer. But explor
 
 ### Tools Used
 ---
-- **Processing (processing.sound)** - Used the specific library to detect incoming live sound and derive its attributes (amplitude)  
+- **Processing (processing.sound)** - Used the specific library to detect incoming live sound and derive its attributes (amplitude). You can find it [here](https://processing.org/reference/libraries/sound/index.html) 
 - **Quicktime** - Used to capture a screen recording of the code in action.
 
 ### Further Goals
