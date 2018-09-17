@@ -2,7 +2,7 @@
 The project began with the basic aim of emulating a sound visualizer. But explorations and study of native sound libraries in processing opened avenues for interesting analysis such as frequency detection, sound filtering and more. This project is currently a work in progress. 
 
 > The final aim is to visualize a physical space based on the aural (sound) data avaliable in the given space. It would allow us to represent a space in a data-art oriented manner.
-"Just as wine creepers growing over a space and define its apperance, how would a space appear in terms of the evoloving aural information in there ? "
+"Just as wine creepers growing over a space define its apperance, how would a space appear in terms of the evoloving aural information in there ? "
 
 
 
